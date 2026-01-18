@@ -53,4 +53,4 @@ Este projeto foi conduzido seguindo rigorosamente as 6 etapas de análise de dad
 
 ---
 *Desenvolvido por **Caio Senra** - Analista de Dados & BI*
-*[(linkedin.com/in/caio-marcelo-57aba4381)]*
+*(linkedin.com/in/caio-marcelo-57aba4381)*
